@@ -1,4 +1,4 @@
-#NAU
+# NAU
 
 Nau allows users to find desired products in nearby stores.
 
@@ -18,12 +18,12 @@ Nau allows for users to enter a product name and a search radius. Upon querying 
 
 ## Timeline (weekend)
 
-Saturday -
+Saturday:
 * Work on the proposal
 * API research, getting as many keys as we can
 * Doing tutorials on Django and NoSQL(MongoDB)
 
-Sunday -
+Sunday:
 * Work on the proposal
 * Begin backend and link it to API
 * If time permits, tutorials on ReactNative
