@@ -119,12 +119,20 @@ Have all the results from the same store in another show page
 </p>
 ```
 
+## Nau Sample Pages
+
+- User Auth Pages
+
 <p align="center"><img width=80% heigth="300px" src="https://github.com/Priya67/Nau/blob/master/images/User_Auth.png"></p>
 
 <br>
 
+- Product index page and Product show page
+
 <p align="center"><img width=80% heigth="300px" src="https://github.com/Priya67/Nau/blob/master/images/product_show_index.png"></p>
 
 <br>
+
+- Map View of a Product
 
 <p align="center"><img width=80% heigth="300px" src="https://github.com/Priya67/Nau/blob/master/images/map.png"></p>
