@@ -85,7 +85,7 @@ The technical challenges for the application will be:
 * Style and pretty up our different frontend pages and make sure the UX is smooth and nice
 * Filter search - filter by brand, location, map etc (bonus if time permits)
 
-<p>Bonus</p>
+<p><u>Bonus</u></p>
 Deploy on Play store
 
 ## Wireframes
