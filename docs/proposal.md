@@ -85,7 +85,34 @@ The technical challenges for the application will be:
 * Style and pretty up our different frontend pages and make sure the UX is smooth and nice
 * Filter search - filter by brand, location, map etc (bonus if time permits)
 
-<p><u>Bonus</u></p>
+<p>Bonus</p>
 Deploy on Play store
 
 ## Wireframes
+1) Auth page
+
+2) Search page
+ * Product input
+ * Location input
+ * Search radius
+ * Whether you need it now (aka only show stores open now)
+
+3) Index page - List view
+ * Store name
+ * Product availability and price
+ * Distance from set location
+ * Maybe store hours still?
+
+4) Index page - map view
+ * Just show the store name and price
+
+5) Show page
+ * Product information/price
+ * Store information (business hours and phone number)
+ * Ability to save it to a “favorites” list - BONUS
+
+6) Favorites - BONUS
+
+<p>NOTES: potential solution/fix to our concern for getting too much data back from queries:
+Have all the results from the same store in another show page
+</p>
