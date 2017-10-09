@@ -113,6 +113,8 @@ Deploy on Play store
 
 6) Favorites - BONUS
 
-<p>NOTES: potential solution/fix to our concern for getting too much data back from queries:
+```
+NOTES: potential solution/fix to our concern for getting too much data back from queries:
 Have all the results from the same store in another show page
 </p>
+```
